@@ -1,3 +1,9 @@
+# this is the parent class
+#its flexible for any class to inherit from it because no date is explicitly given. 
+#line require 'active_support/inflector' is a geb needed for 
+
+
+
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
 
