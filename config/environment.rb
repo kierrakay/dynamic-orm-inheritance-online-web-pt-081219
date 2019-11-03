@@ -16,4 +16,4 @@ DB[:conn].results_as_hash = true
 
 #if it's supposed to be felixible why is songs here which is the child class. and what if we had other tables with more attributes besides name and album?
 
-#line 15 will take that nested array and turn it into a hash...key with value pair 
+#   DB[:conn].results_as_hash = true... is a method that will take that nested array and turn it into a hash...key with value pair 
