@@ -2,7 +2,7 @@
 #its flexible for any class to inherit from it because no date is explicitly given. 
 #line require 'active_support/inflector' is a gem needed for .pluralize to pluralize the table names 
 #pragma is  used to turn arrays into hashes?
-
+#are all attr_accessor called "name" when used in the table_info code? like how do we fine that info first to write the code?
 
 
 require_relative "../config/environment.rb"
