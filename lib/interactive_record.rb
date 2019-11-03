@@ -1,6 +1,7 @@
 # this is the parent class
 #its flexible for any class to inherit from it because no date is explicitly given. 
-#line require 'active_support/inflector' is a geb needed for 
+#line require 'active_support/inflector' is a gem needed for .pluralize to pluralize the table names 
+#
 
 
 
