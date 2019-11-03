@@ -3,6 +3,7 @@
 #line require 'active_support/inflector' is a gem needed for .pluralize to pluralize the table names 
 #pragma is  used to turn arrays into hashes?
 #are all attr_accessor called "name" when used in the table_info code? like how do we fine that info first to write the code?
+#if interpolating is a security risk are we ever gonna write codce this way? i know we are doing it to be more dynamic but is there a way to secure it more doing it this way?
 
 
 require_relative "../config/environment.rb"
